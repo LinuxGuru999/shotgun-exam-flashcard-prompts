@@ -1,0 +1,23 @@
+{
+  "overview": "Exam Flashcard Prompts is a digital prompt pack designed for high school and college students drowning in dense study notes. It provides 35 plug-and-play AI prompts that instantly convert your raw lecture notes, textbook chapters, and PDFs into focused, high-yield flashcard decks.",
+  "usecases": [
+    "Pasting 50 pages of biology lecture notes into ChatGPT to generate instant, conceptual flashcards before an exam.",
+    "Breaking down complex legal or historical frameworks into bite-sized active-recall questions when you're too burnt out to write cards manually.",
+    "Organizing your digital flashcard software with built-in spaced repetition metadata without wasting hours formatting tags."
+  ],
+  "howto": [
+    "Download the prompt pack instantly after purchase as a clean PDF and Notion template.",
+    "Copy any of the 35 subject-agnostic prompts into your AI tool of choice alongside your study notes.",
+    "Export the generated Q&A pairs directly into your preferred flashcard app and start studying."
+  ],
+  "faq": [
+    {
+      "q": "Will I still have to do the work of making the cards?",
+      "a": "No, the prompts handle 90% of the heavy lifting by extracting key concepts and phrasing them as active-recall questions, though you will need to review and copy them into your study app."
+    },
+    {
+      "q": "Do I need a paid subscription to an AI tool to use these?",
+      "a": "No, these prompts are fully optimized and tested to work exceptionally well on free AI models like ChatGPT and Claude."
+    }
+  ]
+}
